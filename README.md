@@ -1,6 +1,6 @@
 ### Hi there,  👋
 
-<p>I'm Tatyana Myasnikova, frontend-developer from Russia, Novosibirsk</p>
+<p>I'm Tatyana Myasnikova, frontend-developer from Russia, Novosibirsk.</p>
 
 ### A little more about me:
 ```javascript
