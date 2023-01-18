@@ -1,8 +1,8 @@
-### Hi there,  👋
+<p> Hi there,  👋</p>
 
 <p>I'm Tatyana Myasnikova, frontend-developer from Russia, Novosibirsk.</p>
 
-### A little more about me:
+#### A little more about me:
 ```javascript
 const tatyana = {
   code: [Javascript, HTML, CSS],
