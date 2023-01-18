@@ -15,8 +15,7 @@ const tatyana = {
  
  ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tatyanabak&theme=gruvbox)
  
-<div id="stat" align="center">
+<div>
 	<img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=tatyanabak&theme=gruvbox"/>
 	<img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=tatyanabak&theme=gruvbox"/>
-	<img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=tatyanabak&theme=gruvbox&utcOffset=8"/>
 </div>
