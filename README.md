@@ -13,4 +13,10 @@ const tatyana = {
 
  ![visitors](https://visitor-badge.glitch.me/badge?page_id=tatyanabak&left_color=green&right_color=red)
  
- ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tatyanabak&theme=default)
+ ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tatyanabak&theme=gruvbox)
+ 
+<div id="stat" align="center">
+	<img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=tatyanabak&theme=gruvbox"/>
+	<img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=tatyanabak&theme=gruvbox"/>
+	<img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=tatyanabak&theme=gruvbox&utcOffset=8"/>
+</div>
