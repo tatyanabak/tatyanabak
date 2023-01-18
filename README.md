@@ -4,7 +4,7 @@
 
 ### A little more about me:
 ```javascript
-const Tatyana = {
+const tatyana = {
   code: [Javascript, HTML, CSS],
   frameworks: [Vue.js, Nuxt.js],
   tools: [Vuex, WebSocket, Redis, Vuetify, Bootstrap, Node, Docker]
